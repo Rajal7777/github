@@ -1,3 +1,4 @@
 let obj = {
-    name: "Rajal"
+    name: "Rajal",
+    age: 30,
 }
